@@ -1,0 +1,20 @@
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\bin\Debug\LogonBarker.dll
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\bin\Debug\LogonBarker.pdb
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\obj\Debug\LogonBarker.csprojAssemblyReference.cache
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\obj\Debug\LogonBarker.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\obj\Debug\LogonBarker.dll
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\obj\Debug\LogonBarker.pdb
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\bin\Debug\Mif.dll
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\bin\Debug\protobuf-net.dll
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Nick\Source\Repos\LogonBarker\LogonBarker\obj\Debug\LogonBarker.csproj.CopyComplete
+F:\SteamLibrary\steamapps\common\Empyrion - Dedicated Server\Content\Mods\LogonBarker\LogonBarker.dll
+F:\SteamLibrary\steamapps\common\Empyrion - Dedicated Server\Content\Mods\LogonBarker\LogonBarker.pdb
+F:\Repos\LogonBarker\LogonBarker\obj\Debug\LogonBarker.csprojAssemblyReference.cache
+F:\Repos\LogonBarker\LogonBarker\obj\Debug\LogonBarker.csproj.CoreCompileInputs.cache
+F:\Repos\LogonBarker\LogonBarker\obj\Debug\LogonBarker.dll
+F:\Repos\LogonBarker\LogonBarker\obj\Debug\LogonBarker.pdb
